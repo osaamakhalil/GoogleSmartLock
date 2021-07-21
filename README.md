@@ -24,11 +24,11 @@ Manage offers to save passwords for specific apps
 
 You can choose to never save passwords for specific apps installed on your device. When you're prompted to save a password, select Never. You won't see an offer to save that password again.
 
-    On your Android phone or tablet, open your device's Settings app And then Google And then Google Account.
-    At the top, scroll right and tap Security.
-    Scroll down to "Signing in to other sites" and tap Saved Passwords.
-    Scroll down to "Blocked."
-    From here, you can:
+   On your Android phone or tablet, open your device's Settings app And then Google And then Google Account.
+   At the top, scroll right and tap Security.
+   Scroll down to "Signing in to other sites" and tap Saved Passwords.
+   Scroll down to "Blocked."
+   From here, you can:
         Block offers to save a password for a specific app. Tap Add Add user and choose the app you want to block.
         Unblock offers to save a password for a specific app. Next to the app you want to unblock, tap Menu More And then Delete.
 
@@ -36,12 +36,12 @@ Manage auto sign-in
 
 You can automatically sign in to sites and apps using info you’ve saved. You can also turn auto sign-in off if you want to provide confirmation before signing in.
 
-    On your Android phone or tablet, open your device's Settings app And then Google And then Google Account.
-    At the top, scroll right and tap Security.
-    Scroll down to "Signing in to other sites" and tap Saved Passwords.
-    Turn Auto sign-in on or off.
+   On your Android phone or tablet, open your device's Settings app And then Google And then Google Account.
+   At the top, scroll right and tap Security.
+   Scroll down to "Signing in to other sites" and tap Saved Passwords.
+   Turn Auto sign-in on or off.
     
-    ScreenShots:
+   ScreenShots:
      ![Screenshot_1626886407](https://user-images.githubusercontent.com/59806410/126528973-863a904b-2602-47b9-a845-1cae86f44491.png) ![Screenshot_1626886425](https://user-images.githubusercontent.com/59806410/126528984-5f0890b7-21da-4dba-82bd-c0d9c9b3e711.png)
      ![Screenshot_1626886436](https://user-images.githubusercontent.com/59806410/126528990-9103e49a-2e28-4060-a15f-fe209a22164b.png) ![Capture](https://user-images.githubusercontent.com/59806410/126529882-be019c6b-29b7-4488-9c5d-e1945d48fbef.JPG)
 
