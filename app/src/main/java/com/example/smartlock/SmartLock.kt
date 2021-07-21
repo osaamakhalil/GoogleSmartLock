@@ -22,7 +22,6 @@ class SmartLock : AppCompatActivity() {
     private val KEY_IS_RESOLVING = "is_resolving"
 
     private val IS_REQUESTING: String = "is_requesting"
-    private val KEY_CREDENTIAL_TO_SAVE = "key_credential_to_save"
 
     private val RC_CREDENTIALS_READ = 2
     private val RC_CREDENTIALS_SAVE = 3
@@ -36,7 +35,6 @@ class SmartLock : AppCompatActivity() {
     lateinit var mPasswordEditText: EditText
     lateinit var mSignInButton: Button
 
-    //  lateinit var mCredential: Credential
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -180,7 +178,6 @@ class SmartLock : AppCompatActivity() {
         mPasswordEditText.setText(password)
 
     }
-
     /************************************************************/
 
     private fun resolveResult(rae: ResolvableApiException, requestCode: Int) {
