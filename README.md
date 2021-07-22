@@ -3,8 +3,9 @@ An example of GoogleSmartLock feature with Kotlin
 
 Use passwords across your devices:
 You can sign in to apps and sites on different devices using passwords saved to your Google Account when you either:
-    -Turn on sync in Chrome on Android
-    -Sign in to Chrome on your computer
+
+   -Turn on sync in Chrome on Android
+   -Sign in to Chrome on your computer
 
 Save passwords to your Google Account
 If Offer to save passwords is on, you’ll be prompted to save your password when you sign in to sites and apps on Android or Chrome.
